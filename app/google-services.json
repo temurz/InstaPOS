@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "103310400985",
+    "project_id": "texnopos-instagram",
+    "storage_bucket": "texnopos-instagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103310400985:android:d6dbd0214dbfa616258dc8",
+        "android_client_info": {
+          "package_name": "texnopos.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103310400985-bhmaalvoujgn5tn0sip2vk45b6bbc5g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "texnopos.instagram",
+            "certificate_hash": "4074513e763acde2ed52df5d8298448bbf62b601"
+          }
+        },
+        {
+          "client_id": "103310400985-9jmv5m7kq6ip0tvmpsgfhfcf0r247giq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqy1NA8yqUybjMYSr6aKdyIudnNXgkigU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103310400985-9jmv5m7kq6ip0tvmpsgfhfcf0r247giq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
